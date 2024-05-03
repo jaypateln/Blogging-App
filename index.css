@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+} 
+
+.default-state {
+    width: 600px;
+    height: 1161px;
+    background-color: black;
+    margin: 0 auto;
+}
